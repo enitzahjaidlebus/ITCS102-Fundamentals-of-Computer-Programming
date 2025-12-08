@@ -7,8 +7,9 @@ def si():
     print("Please Get OUT!!!")
 
 si()
-siname('sam')
-sinfo('sam', 'Pagbilao', '19')
+siname('jhaz')
+sinfo('jhaz', 'lucena', '19')
 
 while True:
+
     print('')
